@@ -1,0 +1,15 @@
+{
+    "name": "DINOSAURNFT",
+    "description": "This is my very first NFT stored on IPFS!",
+    "image": "ipfs://QmNct4gdRKEdZGCZ23qhQk6MmW118z2toREmZjrRvbXoQT/DINOSAURNFT.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White"
+        },
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}
